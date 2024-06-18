@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQDcGbZ1178=",
+  "dgSpecHash": "uQAASgYGmMQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola\\source\\repos\\BasicWebApi\\BasicWebApi.Core\\BasicWebApi.Core.csproj",
+  "projectFilePath": "C:\\Users\\Nikola\\source\\repos\\bb\\BasicWebApi\\BasicWebApi.Core\\BasicWebApi.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

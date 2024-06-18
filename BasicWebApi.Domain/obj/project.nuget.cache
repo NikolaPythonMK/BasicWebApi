@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoIa5UshauI=",
+  "dgSpecHash": "wjDJoNl+YgI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikola\\source\\repos\\BasicWebApi\\BasicWebApi.Domain\\BasicWebApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Nikola\\source\\repos\\bb\\BasicWebApi\\BasicWebApi.Domain\\BasicWebApi.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikola\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
